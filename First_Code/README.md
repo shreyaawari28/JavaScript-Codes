@@ -42,7 +42,7 @@ The output is displayed in the browser console after opening the HTML file.
 
 📸 **Console Output Screenshot:**  
 
-![Console Output](output.png)
+![Console Output](Output.png)
 
 ---
 
