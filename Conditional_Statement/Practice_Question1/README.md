@@ -33,7 +33,7 @@ The input is taken using `prompt()`, and based on the condition, the output is d
 
 ## 🚀 Live Demo
 
-🔗 [Live Demo](https://shreyaawari28.github.io/JavaScript-Codes/Practice_Question1)
+🔗 [Live Demo](https://shreyaawari28.github.io/JavaScript-Codes/Conditional_Statement/Practice_Question1/)
 
 ### How to Check the Live Demo Output
 1. Open the Live Demo link.
