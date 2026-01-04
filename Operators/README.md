@@ -1,52 +1,80 @@
+# JavaScript Operators – Example Program
 
-# JavaScript Operators – Practice Program
-
-## 📌 Overview
-This project is a **practice implementation of JavaScript operators**, created using **HTML and JavaScript**.
-
-In this program, I explored and demonstrated the usage of **different types of operators in JavaScript** by performing operations on numeric variables and printing the results to the browser console.
-
-The focus of this project is to clearly understand **how operators work internally**, especially unary, comparison, and logical operators.
+This repository contains a basic JavaScript program that demonstrates the usage of **different types of operators** in JavaScript.  
+It is intended for beginners who are learning JavaScript fundamentals and want to understand how operators work in real code.
 
 ---
 
-## 🎯 Objectives
-- Understand different categories of JavaScript operators  
-- Practice arithmetic operations using JavaScript  
-- Learn the difference between pre and post increment/decrement  
-- Understand assignment operators  
-- Compare values using comparison operators  
-- Apply logical operators on boolean conditions  
+## 📌 Program Overview
+
+The program demonstrates the use of various JavaScript operators, including:
+
+- Assignment operators
+- Arithmetic operators
+- Unary operators
+- Assignment compound operators
+- Comparison operators
+- Logical operators
+
+It also shows how operator results change based on **operand values** and **operator behavior**.
+
+---
+
+## 🧪 Code Functionality
+
+- Declares numeric variables using `let`
+- Assigns initial values using the assignment operator (`=`)
+- Performs arithmetic operations such as addition, subtraction, multiplication, division, modulus, and exponentiation
+- Demonstrates unary operators like pre-increment, post-increment, pre-decrement, and post-decrement
+- Uses compound assignment operators (`+=`, `-=`)
+- Compares values using comparison operators (`==`, `!=`, `===`, `!==`)
+- Applies logical operators (`&&`, `||`, `!`) on boolean expressions
+- Prints all outputs to the browser console using `console.log()`
 
 ---
 
 ## 🧠 Operators Covered
-- **Arithmetic Operators** (`+`, `-`, `*`, `/`, `%`, `**`)  
-- **Unary Operators** (`++`, `--` – pre and post)  
-- **Assignment Operators** (`=`, `+=`, `-=`)  
-- **Comparison Operators** (`==`, `!=`, `===`, `!==`)  
-- **Logical Operators** (`&&`, `||`, `!`)  
+
+- **Assignment Operators**: `=`, `+=`, `-=`
+- **Arithmetic Operators**: `+`, `-`, `*`, `/`, `%`, `**`
+- **Unary Operators**: `++`, `--`
+- **Comparison Operators**: `==`, `!=`, `===`, `!==`
+- **Logical Operators**: `&&`, `||`, `!`
 
 ---
 
-## 🧪 How It Works
-- Two variables `a` and `b` are initialized with numeric values  
-- Different operators are applied to these variables  
-- Results are displayed using `console.log()`  
-- Logical operators are demonstrated using boolean conditions  
+## 🖥️ Output
 
-All output can be viewed directly in the **browser console**.
+The output is displayed in the **browser console**.
+
+📸 **Console Output Screenshot:**  
+
+![Console Output](output.png)
 
 ---
 
-## ⚠️ Notes
+## 📂 File Information
+
+- `index.html` — HTML file used to run JavaScript in the browser  
+- `operators.js` — JavaScript file containing operator examples  
+- `output.png` — Screenshot of the console output  
+- `README.md` — Project documentation  
+
+---
+
+## ⚠️ Limitations
+- No visual output on the webpage  
+- No user interaction  
 - Output is visible only in the browser console  
-- No user input is taken  
-- Program is meant purely for concept understanding  
 
 ---
 
 ## 👨‍💻 Author
+
 **Shreya Awari**  
 📧 Email: shreyaawari31@gmail.com  
 🌐 GitHub: https://github.com/shreyaawari28  
+
+---
+
+⭐ Feel free to **star the repository** if you find it useful.
