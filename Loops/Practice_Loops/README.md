@@ -39,6 +39,7 @@ Each iteration prints the current value or key-value pair to the browser console
 ## 🖥️ Output
 
 📸 **Output showing iteration using for-of and for-in loops:**  
+
 ![Loop Output](output.png)
 
 ---
