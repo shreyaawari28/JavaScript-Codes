@@ -40,12 +40,15 @@ Once the correct number is guessed, a success message is displayed using an aler
 ## 🖥️ Output
 
 📸 **First attempt (wrong guess):**  
+
 ![Wrong Guess](output1.png)
 
 📸 **Second attempt (wrong guess):**  
+
 ![Wrong Guess Again](output2.png)
 
 📸 **Correct guess (success message):**  
+
 ![Correct Guess](output3.png)
 
 ---
