@@ -21,8 +21,8 @@ Once the correct number is guessed, a success message is displayed using an aler
 - Takes user input using `prompt()`
 - Compares user input with the game number
 - Uses `if-else` to check the first guess
-- Uses a `while` loop to keep asking until the correct guess
-- Displays success messages using `alert()`
+- Uses a `while` loop to continue until the correct guess
+- Displays messages using `alert()`
 
 ---
 
@@ -30,7 +30,7 @@ Once the correct number is guessed, a success message is displayed using an aler
 
 - User input using `prompt()`
 - Comparison operators
-- `if-else` conditional statement
+- `if-else` conditional statements
 - `while` loop
 - Boolean conditions
 - Alerts for user feedback
@@ -39,8 +39,14 @@ Once the correct number is guessed, a success message is displayed using an aler
 
 ## 🖥️ Output
 
-📸 **Output showing repeated guesses and final success message:**  
-![Guessing Game Output](output.png)
+📸 **First attempt (wrong guess):**  
+![Wrong Guess](output1.png)
+
+📸 **Second attempt (wrong guess):**  
+![Wrong Guess Again](output2.png)
+
+📸 **Correct guess (success message):**  
+![Correct Guess](output3.png)
 
 ---
 
@@ -48,14 +54,16 @@ Once the correct number is guessed, a success message is displayed using an aler
 
 - `index.html` — HTML file used to run JavaScript in the browser  
 - `guess_game.js` — JavaScript file containing the game logic  
-- `output.png` — Screenshot of the output  
+- `output1.png` — Screenshot of first wrong guess  
+- `output2.png` — Screenshot of second wrong guess  
+- `output3.png` — Screenshot of correct guess  
 - `README.md` — Project documentation  
 
 ---
 
 ## ⚠️ Limitations
 - Game number is fixed (not randomly generated)
-- No input validation for non-numeric values
+- No validation for non-numeric input
 - Output depends on browser prompts and alerts
 
 ---
@@ -69,4 +77,3 @@ Once the correct number is guessed, a success message is displayed using an aler
 ---
 
 ⭐ Feel free to **star the repository** if you find it useful.
-
