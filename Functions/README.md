@@ -45,6 +45,7 @@ The output for each approach is displayed in the browser console for comparison.
 ## 🖥️ Output
 
 📸 **Output showing vowel count using different approaches:**  
+
 ![Vowel Count Output](output.png)
 
 ---
