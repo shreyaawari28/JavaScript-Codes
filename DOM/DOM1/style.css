@@ -1,0 +1,12 @@
+.box{
+    height: 150px;
+    width: 200px;
+    background-color: bisque;
+    border : 2px solid black;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-weight: bold;
+}
+    
