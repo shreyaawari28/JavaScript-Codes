@@ -1,4 +1,4 @@
-# JavaScript Variables and Data Types – Example Program
+# JavaScript Variable and Data Types – Example Program
 
 This repository contains a simple JavaScript program that demonstrates the usage of **variables** and **different data types** in JavaScript.  
 It is intended for beginners who are learning JavaScript fundamentals.
